@@ -39,7 +39,9 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=silver&color=20232A)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=silver&color=20232A)
 
-## Article
+## Articles
 
 Styled Components — идеальная стилизация React-приложения 
 [[Tproger]](https://tproger.ru/articles/styled-components-idealnaja-stilizacija-react-prilozhenija) [[Habr]](https://habr.com/ru/post/591381/)
+
+Подготовка окружения React-приложения: VSCode, Prettier, ESLint, Stylelint, Husky [[Tproger]](https://tproger.ru/articles/podgotovka-okruzhenija-react-prilozhenija-vscode-prettier-eslint-stylelint-husky/)
