@@ -41,8 +41,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=silver&color=20232A)
 
 ## Projects
-### Slov Dice
-[Preview Demo](https://youtu.be/a0z5R8mpsxo)
+Slov Dice — Площадка для проведения D&D сценариев [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo)
+
 
 ## Articles
 
