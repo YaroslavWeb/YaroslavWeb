@@ -40,6 +40,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=silver&color=20232A)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=silver&color=20232A)
 
+## Projects
+### Slov Dice
+[Preview Demo](https://youtu.be/a0z5R8mpsxo)
+
 ## Articles
 
 Styled Components — идеальная стилизация React-приложения
