@@ -30,9 +30,16 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=crimson&color=20232A)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=crimson&color=20232A)
 
+## Deploy
+
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=9457EB&color=20232A)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=9457EB&color=20232A)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=9457EB&color=20232A)
+
 ## Bonus
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=silver&color=20232A)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=silver&color=20232A)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=silver&color=20232A)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=silver&color=20232A)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=silver&color=20232A)
@@ -41,8 +48,8 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=silver&color=20232A)
 
 ## Projects
-Slov Dice — Площадка для проведения D&D сценариев [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo) [[Midjourney Collection]](https://www.midjourney.com/app/collections/OCOxV2nNQyiy1_IFW27m-g/)
 
+**В разработке** | Slov Dice — Площадка для проведения D&D сценариев [[Website]](https://slov-dice.com) [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo) [[Midjourney Collection]](https://www.midjourney.com/app/collections/OCOxV2nNQyiy1_IFW27m-g/)
 
 ## Articles
 
