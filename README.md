@@ -51,6 +51,8 @@
 
 **В разработке** | Slov Dice — Площадка для проведения D&D сценариев [[Website]](https://slov-dice.com) [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo) [[Midjourney Collection]](https://www.midjourney.com/app/collections/OCOxV2nNQyiy1_IFW27m-g/)
 
+react-third-hand — cli утилита для инициализации инструментов React приложения [[NPM]](https://www.npmjs.com/package/react-third-hand)
+
 ## Articles
 
 Styled Components — идеальная стилизация React-приложения
