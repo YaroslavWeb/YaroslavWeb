@@ -49,13 +49,13 @@
 
 ## Projects
 
-**В разработке** | Slov Dice — Площадка для проведения D&D сценариев [[Website]](https://slov-dice.com) [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo) [[Midjourney Collection]](https://www.midjourney.com/app/collections/OCOxV2nNQyiy1_IFW27m-g/)
+- **В разработке** | Slov Dice — Площадка для проведения D&D сценариев [[Website]](https://slov-dice.com) [[Video Preview Demo]](https://youtu.be/a0z5R8mpsxo) [[Midjourney Collection]](https://www.midjourney.com/app/collections/OCOxV2nNQyiy1_IFW27m-g/)
 
-react-third-hand — cli утилита для инициализации инструментов React приложения [[NPM]](https://www.npmjs.com/package/react-third-hand)
+- react-third-hand — cli утилита для инициализации инструментов React приложения [[NPM]](https://www.npmjs.com/package/react-third-hand)
 
 ## Articles
 
-Styled Components — идеальная стилизация React-приложения
+- Styled Components — идеальная стилизация React-приложения
 [[Tproger]](https://tproger.ru/articles/styled-components-idealnaja-stilizacija-react-prilozhenija) [[Habr]](https://habr.com/ru/post/591381/)
 
-Подготовка окружения React-приложения: VSCode, Prettier, ESLint, Stylelint, Husky [[Tproger]](https://tproger.ru/articles/podgotovka-okruzhenija-react-prilozhenija-vscode-prettier-eslint-stylelint-husky/)
+- Подготовка окружения React-приложения: VSCode, Prettier, ESLint, Stylelint, Husky [[Tproger]](https://tproger.ru/articles/podgotovka-okruzhenija-react-prilozhenija-vscode-prettier-eslint-stylelint-husky/)
